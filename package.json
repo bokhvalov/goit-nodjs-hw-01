@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/bokhvalov/goit-nodjs-hw-01#readme",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
   }
 }
